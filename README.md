@@ -1,143 +1,211 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bhupendra%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Web%20Developer%20%7C%20BCA%20%40%20CGC&descAlignY=51&descSize=16"/>
-</div>
+# Bhupendra Kumar
+### Aspiring Java Full Stack Developer | Java · Spring Boot · React · MySQL
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Bhupendra+Kumar!;Full+Stack+Web+Developer+🚀;Node.js+%7C+Express.js+%7C+MongoDB+%7C+EJS;Building+real-world+web+apps+💻;Open+To+Work+🟢" alt="Typing SVG" />
-</p>
-
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/bhupendra-kumar-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Bhupendra-Kumar-1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:bhupendra1kumar1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://majorproject-1-rmub.onrender.com/listings">
-    <img src="https://img.shields.io/badge/Live%20Project-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bhupendra-Kumar-1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Bhupendra-Kumar-1?label=Followers&style=social" alt="followers" />
 </p>
 
 ---
 
-## 🙋‍♂️ About-Me
+## 👨‍💻 1. Professional Introduction
+
+I am an **Aspiring Java Full Stack Developer** and a **BCA Graduate (2025)** based in **Hyderabad, Telangana, India**. 
+
+With a strong foundation in full-stack web architectures, client-server design patterns, and RESTful API development through hands-on projects, I am focused on engineering enterprise-grade, scalable backend systems using **Java, Spring Boot, Spring Data JPA, Hibernate, and MySQL**, integrated with responsive modern frontends using **React.js**.
+
+---
+
+## 🙋‍♂️ 2. About Me
 
 ```yaml
 Name        : Bhupendra Kumar
-Degree      : BCA (Bachelor of Computer Applications)
-College     : Chandigarh Group of Colleges, Chandigarh
-Location    : Chandigarh, India 🇮🇳
-Role        : Full Stack Web Developer
-Status      : 🟢 Open To Work
+Location    : Hyderabad, Telangana, India 🇮🇳
+Education   : Bachelor of Computer Applications (BCA), Class of 2025
+Core Focus  : Enterprise Java & Spring Boot Full Stack Development
+Status      : 🟢 Open for Fresher / Entry-Level Java Full Stack Roles
 Email       : bhupendra1kumar1@gmail.com
-LinkedIn    : linkedin.com/in/bhupendra-kumar-dev
+LinkedIn    : https://www.linkedin.com/in/bhupendra-kumar-dev/
 ```
 
-- 🔭 Currently working on **WanderLust** — a full-stack Airbnb-inspired travel listing platform
-- 🌱 Currently learning **React.js** to become a MERN Stack Developer
-- 💬 Ask me about **Node.js, Express.js, MongoDB, REST APIs, EJS**
-- 🤝 Open to collaborating on exciting **Web Development Projects**
-- ⚡ Fun fact: I debug with `console.log` and I'm proud of it 😄
+- 🎯 **Career Goal:** To contribute as a Java Full Stack Developer by writing clean, maintainable, object-oriented code, building resilient microservices/REST APIs, and delivering reliable user interfaces.
+- 💡 **Engineering Mindset:** Strong grasp of Object-Oriented Programming (OOP) principles, clean architecture, relational database modeling, and end-to-end deployment workflows.
+- 🧩 **Previous Engineering Work:** Successfully developed, architected, and deployed multiple full-stack applications leveraging decoupled client-server models, cloud storage, and AI API integrations.
 
 ---
 
-## 🚀 Featured Project — WanderLust
+## 🚀 3. Current Learning & Roadmap
 
-<a href="https://github.com/Bhupendra-Kumar-1/MAJORPROJECT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bhupendra-Kumar-1&repo=MAJORPROJECT&theme=tokyonight&hide_border=true" />
-</a>
+I am actively deepening my technical capabilities across the modern Java enterprise ecosystem:
 
-<br/><br/>
-
-> 🌍 **WanderLust** is a full-stack Airbnb-inspired travel listing web application where users can explore, create, edit and review travel listings with interactive maps.
-
-| 🔗 Live Demo | 🛠️ Tech Stack | ✅ Features |
-|---|---|---|
-| [Visit WanderLust →](https://majorproject-1-rmub.onrender.com/listings) | Node.js · Express.js · MongoDB · EJS | User Authentication |
-| [GitHub Repo →](https://github.com/Bhupendra-Kumar-1/MAJORPROJECT) | Cloudinary · Mapbox · Render | Image Upload via Cloudinary |
-| | Bootstrap · Passport.js · Joi | Interactive Maps (Mapbox) |
-| | MongoDB Atlas · dotenv | CRUD Listings & Reviews |
-| | | GST Tax Toggle · Category Filters |
+- ☕ **Core Java Mastery:** Deepening hands-on proficiency with the **Java Collections Framework**, Multithreading, Exception Handling, Memory Management, and Java 8+ features (Streams, Lambdas).
+- 🍃 **Spring Boot & Microservices:** Building robust RESTful services with **Spring Boot**, **Spring MVC**, **Spring Data JPA**, and **Hibernate ORM**.
+- 🗄️ **Relational Database Design:** Normalization, indexing, complex joins, and transaction management in **MySQL**.
+- ⚛️ **Modern Frontend Integration:** Connecting Spring Boot REST APIs with reactive, component-driven **React.js** user interfaces.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ 4. Technical Skills Overview
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,bootstrap,git,github,vscode&theme=dark&perline=10" />
-</p>
+In line with authentic engineering practices, my skill set is categorized by demonstrated project experience and active enterprise learning:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white"/>
-</p>
+| Category | Primary Focus & Active Implementations | Familiar & Previously Implemented |
+| :--- | :--- | :--- |
+| **Backend** | Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, REST APIs | Node.js, Express.js, MVC Architecture |
+| **Frontend** | React.js, JavaScript (ES6+), HTML5, CSS3 | Bootstrap, Tailwind CSS, Vite |
+| **Databases** | MySQL (Relational Modeling, SQL Queries) | MongoDB (Document Store, Mongoose ODM) |
+| **Tools & Platforms** | Git, GitHub, IntelliJ IDEA, VS Code, Postman, Maven | Render, Vercel, Cloudinary, Mapbox SDK |
 
 ---
 
-## 📊 GitHub Stats
+## ⚙️ 5. Backend Technologies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhupendra-Kumar-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhupendra-Kumar-1&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
+* **Languages & Core:** Java (Core Java, OOP, Collections Framework, Exception Handling, File I/O, JDBC)
+* **Frameworks:** Spring Framework, Spring Boot, Spring MVC
+* **Persistence & ORM:** Spring Data JPA, Hibernate
+* **API Development:** RESTful Web Services, JSON parsing, HTTP status codes, request/response lifecycle
+* **Previous Backend Experience:** Node.js, Express.js, Passport.js authentication, middleware pipelines
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhupendra-Kumar-1&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎨 6. Frontend Technologies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhupendra-Kumar-1&theme=tokyonight&no-frame=true&row=1&column=6" />
+* **Core Frontend:** HTML5, CSS3, JavaScript (ES6+)
+* **Libraries & Frameworks:** React.js (Component lifecycle, hooks, state management, SPA routing)
+* **State Management & UI:** Redux Toolkit, Material-UI (MUI), Tailwind CSS, Bootstrap
+* **Build Systems:** Vite, npm
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🗄️ 7. Database Technologies
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhupendra-Kumar-1&theme=tokyo-night&hide_border=true" />
+* **Relational Database:** MySQL (Tables, Primary/Foreign keys, Joins, Constraints, Indexing, Transactions)
+* **NoSQL Database:** MongoDB (Collections, Aggregations, Document Schemas with Mongoose)
+* **Cloud Database Solutions:** MongoDB Atlas, Remote MySQL instances
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MongoDB_Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🧰 8. Tools & Platforms
+
+* **IDEs & Code Editors:** IntelliJ IDEA, VS Code
+* **Version Control:** Git, GitHub
+* **API Testing & Build Tools:** Postman, Apache Maven, npm
+* **Deployment & Cloud:** Render, Vercel, Cloudinary
+
+<p align="left">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+## 📂 9. Featured Projects
+
+### ☕ Java Full Stack Projects *(In Active Development)*
+> New end-to-end Java & Spring Boot enterprise projects featuring Spring Data JPA, MySQL persistence, and React frontend clients are currently being architected and built. Repositories will be pinned here upon release.
+
+### 🌐 Previous Full Stack & Frontend Engineering Work
+
+#### 1. [InterviewIQ.AI — Smart Mock Interview Platform](https://github.com/Bhupendra-Kumar-1/interviewIQ)
+* **Architecture:** Decoupled Client-Server Full Stack Architecture
+* **Stack:** React.js, Redux Toolkit, Tailwind CSS, Node.js, Express.js, MongoDB, OpenRouter AI, Multer, JWT
+* **Key Highlights:**
+  * Context-aware technical mock interviews generated dynamically by extracting text from candidate resumes via Multer PDF streaming.
+  * Adaptive conversational AI prompts driven by OpenRouter AI.
+  * Performance analytics dashboard featuring scoring reports and session tracking.
+* **Links:** [GitHub Repository](https://github.com/Bhupendra-Kumar-1/interviewIQ) · [Live Demo](https://interviewiq-q77q.onrender.com)
+
+#### 2. [WanderLust — Full-Stack Travel & Listing Platform](https://github.com/Bhupendra-Kumar-1/MAJORPROJECT)
+* **Architecture:** Model-View-Controller (MVC) Server-Side Architecture
+* **Stack:** Node.js, Express.js, MongoDB, Mongoose, EJS, Bootstrap, Cloudinary, Mapbox SDK, Passport.js, Joi
+* **Key Highlights:**
+  * Complete CRUD lifecycle for rental listings and user reviews with Joi schema-level validation.
+  * Image upload and transformation pipelines powered by Cloudinary.
+  * Interactive forward-geocoded map pins powered by Mapbox SDK.
+  * Session-based authentication and authorization with Passport.js.
+* **Links:** [GitHub Repository](https://github.com/Bhupendra-Kumar-1/MAJORPROJECT) · [Live Demo](https://majorproject-1-rmub.onrender.com/listings)
+
+#### 3. [SkyCast — Modern Weather Dashboard](https://github.com/Bhupendra-Kumar-1/weather-app)
+* **Stack:** React 19, Material-UI (MUI), Vite, OpenWeatherMap API
+* **Key Highlights:** Responsive weather dashboard fetching and displaying real-time atmospheric metrics, humidity, and forecast data.
+* **Links:** [GitHub Repository](https://github.com/Bhupendra-Kumar-1/weather-app) · [Live Demo](https://weather-app-two-psi-80.vercel.app/)
+
+#### 4. [React Notes App](https://github.com/Bhupendra-Kumar-1/react-notes-app)
+* **Stack:** React 19, Vite, Tailwind CSS v4
+* **Key Highlights:** Minimalist, fast personal note management utilizing modern React hooks for local state updates.
+* **Links:** [GitHub Repository](https://github.com/Bhupendra-Kumar-1/react-notes-app)
+
+---
+
+## 📊 10. GitHub Statistics
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhupendra-Kumar-1&show_icons=true&theme=default&hide_border=false&count_private=true" alt="Bhupendra's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhupendra-Kumar-1&layout=compact&theme=default&hide_border=false" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## 📈 11. GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhupendra-Kumar-1&theme=github&hide_border=false" alt="Bhupendra's Contribution Graph" width="95%" />
+</p>
+
+---
+
+## 🌐 12. Connect With Me
+
+<p align="left">
   <a href="https://www.linkedin.com/in/bhupendra-kumar-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Bhupendra%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Bhupendra%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Bhupendra-Kumar-1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Bhupendra--Kumar--1-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Bhupendra--Kumar--1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:bhupendra1kumar1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-bhupendra1kumar1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://majorproject-1-rmub.onrender.com/listings" target="_blank">
-    <img src="https://img.shields.io/badge/WanderLust-Live%20Project-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-bhupendra1kumar1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
----
+<br />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</div>
-
-<p align="center">
-  <i>⭐ Star my repositories if you find them helpful! Let's connect and build something amazing together! 🚀</i>
-</p>
+```
+"Passionate about writing clean code, building reliable software, and continuously learning."
+```
