@@ -29,24 +29,24 @@ I’m a BCA graduate (2025) building my career in Java full stack development. I
 
 ## Featured projects
 
-### [InterviewIQ.AI](https://github.com/Bhupendra-Kumar-1/interviewIQ)
+### [InterviewIQ.AI](https://github.com/BhupendraKumarDev/interviewIQ)
 AI-assisted mock interview platform.
 - **Stack:** React, Redux Toolkit, Tailwind CSS, Node.js, Express, MongoDB
 - Generates interview questions using resume content and AI APIs, with interview sessions and performance tracking.
 - [Live demo](https://interviewiq-q77q.onrender.com)
 
-### [WanderLust](https://github.com/Bhupendra-Kumar-1/MAJORPROJECT)
+### [WanderLust](https://github.com/BhupendraKumarDev/MAJORPROJECT)
 Travel listings and reviews application.
 - **Stack:** Node.js, Express, MongoDB, EJS, Bootstrap
 - Includes listing and review workflows, authentication, image uploads, and map integration.
 - [Live demo](https://majorproject-1-rmub.onrender.com/listings)
 
-### [SkyCast](https://github.com/Bhupendra-Kumar-1/weather-app)
+### [SkyCast](https://github.com/BhupendraKumarDev/weather-app)
 Responsive weather dashboard.
 - **Stack:** React, Material UI, Vite, OpenWeatherMap API
 - [Live demo](https://weather-app-two-psi-80.vercel.app/)
 
-### [React Notes App](https://github.com/Bhupendra-Kumar-1/react-notes-app)
+### [React Notes App](https://github.com/BhupendraKumarDev/react-notes-app)
 Personal notes app built with React, Vite, and Tailwind CSS.
 
 ## Current learning focus
@@ -59,12 +59,12 @@ Personal notes app built with React, Vite, and Tailwind CSS.
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhupendra-Kumar-1&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhupendra-Kumar-1&layout=compact&theme=default&hide_border=true" alt="Most used languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BhupendraKumarDev&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhupendraKumarDev&layout=compact&theme=default&hide_border=true" alt="Most used languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhupendra-Kumar-1&theme=github&hide_border=true" alt="GitHub contribution graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhupendraKumarDev&theme=github&hide_border=true" alt="GitHub contribution graph" width="95%" />
 </p>
 
 ---
